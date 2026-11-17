@@ -130,7 +130,7 @@
         <mxCell id="Fti9Ce00T79WISIxQv6f-34" value="产品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="463" y="673" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Fti9Ce00T79WISIxQv6f-35" value="产品编码 (主键)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fti9Ce00T79WISIxQv6f-35" value="产品编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="621" y="468" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Fti9Ce00T79WISIxQv6f-36" value="品牌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
